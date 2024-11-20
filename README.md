@@ -44,7 +44,7 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 ## STM 32 CUBE PROGRAM :
 
 # SOURCE FILE:
-
+```
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "stdio.h"
@@ -222,6 +222,6 @@ Half Dipped
 <img width="960" alt="236766904-44525619-5358-4ebd-85b7-19b27625a648" src="https://github.com/user-attachments/assets/038ed46e-20dc-4199-9cf7-9468fc7f113f">
 Fully Dipped
 <img width="960" alt="236766931-95d68411-3e34-40fc-aa89-6aa1659dd8c3" src="https://github.com/user-attachments/assets/6463ece2-d401-4b0c-86e7-7292130439b8">
-
+```
 ## Result :
 configuring and usart is accomplished and string data is visualized on the serial port utilty
